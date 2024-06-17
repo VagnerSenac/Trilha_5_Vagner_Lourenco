@@ -1,0 +1,40 @@
+<script>
+function recebeLetra(lista) {
+    let letra = prompt("Por favor, insira uma letra:");
+
+    if (letra.length === 1 && letra.match(/[a-z]/i)) {
+     
+        lista.push(letra);
+        console.log("Letra adicionada:", letra);
+        return true; 
+    } else {
+        console.log("Entrada inválida. Por favor, insira uma única letra do alfabeto.");
+        return false; 
+    }
+}
+
+
+function main() {
+    let letras = [];
+ for (let i = 0; i < 10; i++) {
+        
+        let adicionou = recebeLetra(letras);
+        
+        
+        if (!adicionou) {
+            break;
+        }
+    }
+
+    
+    console.log("a) A primeira letra digitada:", letras[0]);
+    console.log("b) A quarta letra digitada:", letras[3]);
+    console.log("c) A quinta letra digitada:", letras[4]);
+    console.log("d) A última letra digitada:", letras[letras.length - 1]);
+    console.log("e) O tamanho da lista criada:", letras.length);
+}
+
+
+main();
+
+</script>

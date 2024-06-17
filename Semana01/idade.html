@@ -1,0 +1,19 @@
+<script>
+let idade = prompt("Por favor, digite sua idade:");
+
+idade = parseInt(idade);
+
+if (idade < 16) {
+    console.log("Você não pode votar, pois ainda não completou 16 anos.");
+} else if (idade >= 16 && idade <= 17) {
+    console.log("Seu voto é opcional, pois você tem entre 16 e 17 anos.");
+} else if (idade >= 18 && idade <= 70) {
+    console.log("Você é obrigado(a) a votar, pois tem entre 18 e 70 anos.");
+} else if (idade > 70) {
+    console.log("Seu voto é opcional, pois você tem mais de 70 anos.");
+} else {
+    console.log("Idade inválida. Por favor, digite uma idade válida.");
+}
+
+
+</script>

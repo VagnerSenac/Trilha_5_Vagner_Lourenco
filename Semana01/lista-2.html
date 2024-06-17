@@ -1,0 +1,30 @@
+<script>
+function recebeLetra(listaLetras) {
+    var letra = prompt("Digite uma letra:");
+    
+    if (letra.length === 1 && letra.match(/[a-zA-Z]/)) {
+        listaLetras.push(letra.toUpperCase()); 
+        console.log("Letra adicionada: " + letra.toUpperCase());
+    } else {
+        console.log("Por favor, digite uma única letra válida.");
+    }
+}
+
+
+function main() {
+    var listaLetras = []; 
+
+
+    while (listaLetras.length < 10) {
+        recebeLetra(listaLetras);
+    }
+
+ 
+    console.log("Lista de letras digitadas:");
+    console.log(listaLetras.join(", ")); 
+}
+
+
+main();
+    
+</script>
