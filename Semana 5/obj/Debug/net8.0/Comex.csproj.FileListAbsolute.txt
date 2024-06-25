@@ -1,0 +1,14 @@
+C:\Users\vagne\source\repos\Comex\Comex\bin\Debug\net8.0\Comex.exe
+C:\Users\vagne\source\repos\Comex\Comex\bin\Debug\net8.0\Comex.deps.json
+C:\Users\vagne\source\repos\Comex\Comex\bin\Debug\net8.0\Comex.runtimeconfig.json
+C:\Users\vagne\source\repos\Comex\Comex\bin\Debug\net8.0\Comex.dll
+C:\Users\vagne\source\repos\Comex\Comex\bin\Debug\net8.0\Comex.pdb
+C:\Users\vagne\source\repos\Comex\Comex\obj\Debug\net8.0\Comex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagne\source\repos\Comex\Comex\obj\Debug\net8.0\Comex.AssemblyInfoInputs.cache
+C:\Users\vagne\source\repos\Comex\Comex\obj\Debug\net8.0\Comex.AssemblyInfo.cs
+C:\Users\vagne\source\repos\Comex\Comex\obj\Debug\net8.0\Comex.csproj.CoreCompileInputs.cache
+C:\Users\vagne\source\repos\Comex\Comex\obj\Debug\net8.0\Comex.dll
+C:\Users\vagne\source\repos\Comex\Comex\obj\Debug\net8.0\refint\Comex.dll
+C:\Users\vagne\source\repos\Comex\Comex\obj\Debug\net8.0\Comex.pdb
+C:\Users\vagne\source\repos\Comex\Comex\obj\Debug\net8.0\Comex.genruntimeconfig.cache
+C:\Users\vagne\source\repos\Comex\Comex\obj\Debug\net8.0\ref\Comex.dll
