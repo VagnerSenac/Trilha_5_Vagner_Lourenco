@@ -1,0 +1,13 @@
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\bin\Debug\net8.0\ComexT2.Modelos.deps.json
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\bin\Debug\net8.0\ComexT2.Modelos.dll
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\bin\Debug\net8.0\ComexT2.Modelos.pdb
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\obj\Debug\net8.0\ComexT2.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\obj\Debug\net8.0\ComexT2.Modelos.AssemblyInfoInputs.cache
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\obj\Debug\net8.0\ComexT2.Modelos.AssemblyInfo.cs
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\obj\Debug\net8.0\ComexT2.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\obj\Debug\net8.0\ComexT2.Modelos.dll
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\obj\Debug\net8.0\refint\ComexT2.Modelos.dll
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\obj\Debug\net8.0\ComexT2.Modelos.pdb
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\obj\Debug\net8.0\ref\ComexT2.Modelos.dll
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\bin\Debug\net8.0\ComexT2.Modelos.xml
+C:\Users\vagne\source\repos\Comex\ComexT2.Modelos\obj\Debug\net8.0\ComexT2.Modelos.xml

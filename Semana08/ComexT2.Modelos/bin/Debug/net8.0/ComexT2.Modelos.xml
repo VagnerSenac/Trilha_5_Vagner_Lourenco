@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ComexT2.Modelos</name>
+    </assembly>
+    <members>
+        <member name="P:Comex.Modelos.Cliente.Cliente.Nome">
+            <summary>
+            Dados de cadastro de Cliente
+            </summary>
+        </member>
+        <member name="T:Comex.Modelos.Cliente.Endereco">
+            <summary>
+            Caladstro base do endereço do cliente
+            </summary>
+        </member>
+        <member name="T:Comex.Modelos.Cliente.Pedido">
+            <summary>
+            Represena um pedido realizado por um cliente
+            </summary>
+        </member>
+        <member name="M:Comex.Modelos.Cliente.Pedido.#ctor(Comex.Modelos.Cliente.Cliente)">
+            <summary>
+            Inicializa uma nova instancia da classe de Pedido.
+            </summary>
+            <param name="cliente"> O cliente realizou o pedido</param>
+        </member>
+        <member name="P:Comex.Modelos.Cliente.Pedido.Cliente">
+            <summary>
+            Obtem o cliente que realizou o pedido
+            </summary>
+        </member>
+        <member name="M:Comex.Modelos.Cliente.Pedido.AdicionarItem(Comex.Modelos.Produtos.ItemPedido)">
+            <summary>
+            Adiciona um item ao pedido e atualiza o valor total.
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Comex.Modelos.Cliente.Pedido.ToString">
+            <summary>
+            Retorna a Nome, Data e Total do Pedido
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Comex.Modelos.Produtos.Eletronico">
+            <summary>
+            Itens de Cadastri expecífico de cadastro de produtos eletônicos
+            </summary>
+        </member>
+        <member name="M:Comex.Modelos.Produtos.ItemPedido.#ctor(Comex.Modelos.Produtos.Produto,System.Int32)">
+            <summary>
+            Levantamento de informações de um Pedido
+            </summary>
+            <param name="produto"></param>
+            <param name="quantidade"></param>
+        </member>
+        <member name="T:Comex.Modelos.Produtos.Livro">
+            <summary>
+            Cadastro de informções do produto de Livros
+            </summary>
+        </member>
+        <member name="T:Comex.Modelos.Produtos.Produto">
+            <summary>
+            Cadastro Base dos produtos
+            </summary>
+        </member>
+    </members>
+</doc>

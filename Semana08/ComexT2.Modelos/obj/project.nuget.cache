@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqdTGEzsa2Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vagne\\source\\repos\\Comex\\ComexT2.Modelos\\ComexT2.Modelos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vagne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\vagne\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\vagne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

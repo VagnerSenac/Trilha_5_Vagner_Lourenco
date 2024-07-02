@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <Title>Classes modelos do projeto COMEX</Title>
+    <Authors>VAgner</Authors>
+    <Company>Seac</Company>
+    <Description>Projeto Comex criado no curso realizado em conjuntono entre o Senac e Alura</Description>
+    <PackageId>ComexT2</PackageId>
+    <Copyright>Criado por Vagner Lourenlo</Copyright>
+    <NeutralLanguage>pt-BR</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
